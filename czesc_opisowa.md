@@ -182,11 +182,11 @@ Kontroluje skuteczność modelu podczas przetwarzania zbioru weryfikacyjnego, kt
 
 Przeprowadzone dostrajanie hiperparametrów sieci neuronowej pokazało, że najefektywniejsze wartości dla nich to:
 * layers=3 - suma liczby warstw ukrytych i warstwy wyjściowej, więc w tym przypadku to dwie warstwy ukryte
-* hidden_size=16 - liczba warstw w pierwszej warstwie ukrytej, druga ma połowę tej wartości
+* hidden_size=64 - liczba warstw w pierwszej warstwie ukrytej, druga ma połowę tej wartości
 * epochs=1000 - liczba iteracji
-* learning_rate=0.01 - szybkość uczenia się
+* learning_rate=0.4 - szybkość uczenia się
 
-Stosując takie hiperparametry otrzymujem współczynnik R^2^ równy 0.97683. Możemy uznać, że jest to bardzo dobre dopasowanie sieci neuronowej. Potwierdza to wykres porównujący wartośći rzeczywiste do prognozowanych:
+Stosując takie hiperparametry otrzymujem współczynnik R^2^ równy 0.95506. Możemy uznać, że jest to bardzo dobre dopasowanie sieci neuronowej. Potwierdza to wykres porównujący wartośći rzeczywiste do prognozowanych:
 
 ![Wartośći rzeczywiste i prognozowane](data/wartosci-prognozy.png)
 
