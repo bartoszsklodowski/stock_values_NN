@@ -18,6 +18,8 @@ Steps taken in the project:
 
 ## Getting Started
 
+> Live demo: [S&P 500 stock index](https://bartoszsklodowski-stock-values-nn-streamlitstock-prices-xmuatl.streamlit.app/) <
+
 ### Dependencies
 
 * Linux-Ubuntu 20.04
@@ -47,14 +49,6 @@ $ source .venv/bin/activate
 Note the `(.venv)` in front of the prompt. This indicates that this terminal
 session operates in a virtual environment set up by `virtualenv`.
 
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
 ## Author
 
