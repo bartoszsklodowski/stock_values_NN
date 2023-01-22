@@ -18,7 +18,7 @@ Steps taken in the project:
 
 ## Getting Started
 
-> Live demo: [S&P 500 stock index](https://bartoszsklodowski-stock-values-nn-streamlitstock-prices-xmuatl.streamlit.app/) 
+> Live demo: [S&P 500 stock index](https://bartoszsklodowski-sp500-stock-values.streamlit.app/) 
 
 ### Dependencies
 
